@@ -1,0 +1,13 @@
+{
+  "name": "thally",
+  "displayName": "Thally",
+  "version": "1.0.0",
+  "description": "Create and monitor your Thally docs sites, check AI readiness and analytics, and review documentation freshness evidence.",
+  "author": {
+    "name": "Thally",
+    "url": "https://thally.io"
+  },
+  "homepage": "https://thally.io",
+  "license": "MIT",
+  "keywords": ["documentation", "analytics", "ai-readiness", "docs-freshness"]
+}

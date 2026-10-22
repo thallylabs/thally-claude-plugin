@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "thally": {
+      "type": "http",
+      "url": "https://app.thally.io/api/mcp/cloud"
+    }
+  }
+}
